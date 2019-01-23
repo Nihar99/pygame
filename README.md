@@ -5,9 +5,9 @@ BEFORE RUNNING THE CODE:
   SETUP:
   ON LINUX:
   ->if pip not installed:
-  sudo apt-get install python3-pip
-  ->if python3 not installed:
-  ->apt-get install python3
+  sudo apt-get install python-pip
+  ->if python not installed:
+  ->apt-get install python
   ->install numpy:
   pip install numpy
   ->install pygame modules:
