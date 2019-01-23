@@ -16,4 +16,4 @@ BEFORE RUNNING THE CODE:
   pygame.init() [in text editor]
 HOW TO RUN THE CODE:
   ->ON LINUX:
-  python connectfour.py
+ python connectfour.py
