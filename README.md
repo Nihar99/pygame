@@ -3,28 +3,28 @@
 
 Knowleage Req: Basic python programming and numpy and pygame.
 
-BEFORE RUNNING THE CODE:
+#BEFORE RUNNING THE CODE:
   
   SETUP:
   
-  ON LINUX:
+  #ON LINUX:
   
-  ->if pip not installed:
+  #->if pip not installed:
   sudo apt-get install python-pip
   
-  ->if python not installed:
+  #->if python not installed:
   apt-get install python
   
-  ->install numpy:
+  #->install numpy:
   pip install numpy
   
-  ->install pygame modules:
+  #->install pygame modules:
   pip install pygame
   
-  ->import pygame modules:
+  #->import pygame modules:
   pygame.init() [in text editor]
 
 HOW TO RUN THE CODE:
  
- ->ON LINUX:
+ #->ON LINUX:
   python connectfour.py
