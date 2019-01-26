@@ -1,4 +1,4 @@
-# Justforfun.py
+# Pygame
 Connect four game using pygame and NumPy
 
 BEFORE RUNNING THE CODE:
