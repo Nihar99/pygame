@@ -1,6 +1,6 @@
 # Pygame
-Connect four game using pygame and NumPy
-Knowleage Req: Basic python programming and numpy and pygame.
+#Connect four game using pygame and NumPy
+\nKnowleage Req: Basic python programming and numpy and pygame.
 
 BEFORE RUNNING THE CODE:
   SETUP:
